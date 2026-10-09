@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MohamedHossam300
-- 👀 I’m interested in AI Research
-- 🌱 I’m currently learning Machine Learning
+- 👀 I’m interested in Computer Science
+- 🌱 I’m currently learning Computer Science basics (DSA, Databases) for now
 
 <!---
 MohamedHossam300/MohamedHossam300 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
